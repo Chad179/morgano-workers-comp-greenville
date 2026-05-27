@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chad179.github.io/morgano-workers-comp-greenville/sitemap.xml
